@@ -60,7 +60,7 @@ const AppProvider = ({children}) => {
     helpHttp().put(endpoint, options)
       .then(res => {
         if(!res.err){
-          const newDb = db.map(el=> el.id === user.id ? user : el)
+          const newDb = db.map(el=> el.id === res.id ? res : el)
           setDb(newDb)
         }else{
           setError(res)
