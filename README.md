@@ -2,4 +2,5 @@
 
 ### Screenshots
 
-![](./shot-1)
+![](./shot-1.PNG)
+
