@@ -1,5 +1,16 @@
 # CRUD: contacts
 
+### Build with
+
+- React JS
+  - useContext hook
+  - Fetch API
+  - AbortController
+- CSS + React Bootstrap
+- PHP 
+- MySQL
+
+
 ### Screenshots
 
 ![](./screenshots/apprct.gif)
