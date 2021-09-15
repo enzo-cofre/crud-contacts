@@ -7,7 +7,8 @@
   - Fetch API
   - AbortController
 - CSS + React Bootstrap
-- PHP 
+- PHP   
+  - PDO 
 - MySQL
 
 
